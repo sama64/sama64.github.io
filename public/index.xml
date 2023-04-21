@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samsyntaxerror blog</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Samsyntaxerror blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Apr 2023 21:03:12 -0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me!! :)</title>
+      <link>/about/</link>
+      <pubDate>Thu, 20 Apr 2023 21:03:12 -0300</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          &lt;img src=&#34;/posts/images/about.jpg&#34;/&gt;
+          
+        
+        
+        
+          So i&amp;rsquo;m an engineering student with a lot of curiosity, and i like to learn things for fun :D
+I advice you that I&amp;rsquo;m totally cringy and goofy most of the time. I just want to write about the things i learn, reviews, reflections, and maybe some fiction!
+Also feel free to contact me to say hi if you want! My dm&amp;rsquo;s are open :3
+Contact me #   Twitter 🐦
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>First post!! 🌱</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Thu, 20 Apr 2023 21:03:12 -0300</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          testing if descriptions work (it does and now this is a placeholder!)
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
