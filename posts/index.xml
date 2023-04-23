@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Samsyntaxerror blog</title>
+    
+    
+    
+    <link>/posts/</link>
+    <description>Recent content in Posts on Samsyntaxerror blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Apr 2023 00:18:36 -0300</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The future may be of the corporations</title>
+      <link>/posts/corporations-taking-over/</link>
+      <pubDate>Sun, 23 Apr 2023 00:18:36 -0300</pubDate>
+      
+      <guid>/posts/corporations-taking-over/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          The idea of corporations taking over society is old, but AI just might be the final step toward it
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>First post!! 🌱</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Thu, 20 Apr 2023 21:03:12 -0300</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Why did i made this blog? TLDR: I have no friends :DD
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

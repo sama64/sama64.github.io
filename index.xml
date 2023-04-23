@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samsyntaxerror blog</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Samsyntaxerror blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Apr 2023 00:18:36 -0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The future may be of the corporations</title>
+      <link>/posts/corporations-taking-over/</link>
+      <pubDate>Sun, 23 Apr 2023 00:18:36 -0300</pubDate>
+      
+      <guid>/posts/corporations-taking-over/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          The idea of corporations taking over society is old, but AI just might be the final step toward it
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About me!! :)</title>
+      <link>/about/</link>
+      <pubDate>Thu, 20 Apr 2023 21:03:12 -0300</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          &lt;img src=&#34;/posts/images/about.jpg&#34;/&gt;
+          
+        
+        
+        
+          So, I&amp;rsquo;m a person with a lot of curiosity, and I like to learn things for fun :D
+I love automation, open-source, and AI. Right now, I&amp;rsquo;m in my second year of mechatronics engineering, but don&amp;rsquo;t let that fool you - I am extremely dumb.
+I advise you that I&amp;rsquo;m totally cringy and goofy most of the time. I just want to write about the things I learn, my thoughts, and maybe some fiction!
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>First post!! 🌱</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Thu, 20 Apr 2023 21:03:12 -0300</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Why did i made this blog? TLDR: I have no friends :DD
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
