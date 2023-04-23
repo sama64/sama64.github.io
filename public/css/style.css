@@ -400,6 +400,12 @@ h4 {
 p {
   color: var(--color-text); }
 
+p * {
+  color: var(--color); }
+
+p a {
+  color: var(--color); }
+
 @media (max-width: 684px) {
   h1 {
     font-size: 2rem; }
