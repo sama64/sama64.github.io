@@ -30,7 +30,7 @@ And even if you want to train your own models, we have seen that for some time n
 
 So there is technology, increasing once more the entry barriers to the market, increasing the efficiency of a company by means of injecting a giant load of money into a few engineers and data centers. This of course will also have very positive consequences, but ¿How will it change society forever? We will see
 
-¿Does this mean that our fate is that all products and services are served to us by ai managed corporations and that the only solution left to policymakers to unemployment will be taxing these corporations to finance Universal Basic Income? ¿Will the policymakers be up for the pace of ai development? ¿Should I drop out of college? ¿Should I be telling everyone that I created an AGI and start a cult with myself as the leader?
+¿Does this mean that our fate is that all products and services are served to us by ai managed corporations and that the only solution left for policymakers to unemployment will be taxing these corporations to finance Universal Basic Income? ¿Will the policymakers be up for the pace of ai development? ¿Should I drop out of college? ¿Should I be telling everyone that I created an AGI and start a cult with myself as the leader?
 
 I don’t know, I guess we will see how things go. But I’m sure that open-source models and ai systems availability will play a major role in this process. 
 
