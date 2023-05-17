@@ -49,14 +49,19 @@ h4 {
 }
 
 p {
-  color: var(--color-text);
+  // color: var(--color-text);
+  color: #a9a9b3;
 }
 
-p * {
+// p * {
+//   color: var(--color-text)
+// }
+
+p a {
   color: var(--color)
 }
 
-p a {
+p em {
   color: var(--color)
 }
 
