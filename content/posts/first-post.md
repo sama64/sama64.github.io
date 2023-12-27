@@ -1,7 +1,7 @@
 ---
 title: "First post!! 🌱"
 date: 2023-04-20T21:03:12-03:00
-description: "Why did i made this blog? TLDR: I have no friends :DD"
+description: "Why did i made this blog? TLDR: I suck at writing :DD"
 draft: false
 ---
 

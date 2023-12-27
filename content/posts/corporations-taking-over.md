@@ -1,7 +1,7 @@
 ---
-title: "The future may be of the corporations"
+title: "The future might belong to the corporations"
 date: 2023-04-23T00:18:36-03:00
-description: "The idea of corporations taking over society is old, but AI just might be the final step toward it"
+description: "The idea of corporations taking over society is old, but AI at scale might be the final step toward it"
 draft: false
 toc: false
 images:
