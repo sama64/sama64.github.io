@@ -6,18 +6,27 @@ cover: "posts/images/about.jpg"
 images:
   - post-cover.png
 ---
-So, I'm a person with a lot of curiosity, and I like to learn things for fun :D
+I'm a person with a lot of curiosity, and I like to learn things for fun :D
 
-I love automation, open-source, and AI. Right now, I'm in my second year of mechatronics engineering, but don't let that fool you - I am extremely dumb.
+I love automation, AI, and open-source ~i use arch btw. Right now, I'm in my third year of mechatronics engineering, but don't let that fool you - I can be extremely dumb.
 
-I advise you that I'm totally cringy and goofy most of the time. I just want to write about the things I learn, my thoughts, and maybe some fiction!
+Warning: Excessive goofiness and occasional cringe attacks may occur. Proceed with caution. 
+
+I'm going to be writing here about the things I learn, my thoughts, and maybe some fiction!
 
 Also, feel free to contact me to say hi if you want! My DMs are open :3
 
 
 ### Contact me
->[Twitter 🐦](https://twitter.com/samsyntaxerror)
+>[Twitter 🐦](https://x.com/samsyntaxerror)
 >
 >[GitHub](https://github.com/sama64)
+>
+>[Discord](https://discordapp.com/users/448612323586736129)
+
+### Other sections
+>[Reading List 📖](/reading-list/)
+>
+>[Anime/Manga List 🍜](/anime-manga-list/)
 
 Thx for reading my blog <3

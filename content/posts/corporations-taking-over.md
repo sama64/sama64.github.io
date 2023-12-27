@@ -11,7 +11,7 @@ tags:
   - Ai
 ---
 
-*I’m not an expert in anything of what I’m about to talk about now, this is just what I think*
+**_I’m not an expert in anything of what I’m about to talk about now, this is just what I think_**
 
 As human history progressed, technology has given us great products at scale that not only cover our basic biological needs but that make our lives better. One really basic example that I appreciate very much is plumbing, and of course hot water. 
 
@@ -19,7 +19,7 @@ But also there are more complex ones, like digital entertainment. It’s more co
 
 First, you need electricity generation and distribution, then extremely complex to manufacture semi-conductors, a bunch of electronic components, lithium batteries, pack that into a super light glass brick that fits into your pocket, a network of giant optical fiber cables that go under the ocean from continent to continent, a massive network of antennas, massive data centers, ai generative models for both audio and video and a million things more. And that’s just at an extremely high-level analysis. And it all has to happen at scale. In turn, to take a shower, you need a water source, plumbing, a pump, and a heater. There might be more to it, but it’s definitely more simple.
 
-And after growing with technological benefits like your phone or the internet, do you think you could live without them? I bet that if you ask some random person the question: *Would you rather never be able to use your phone again for the rest of your life, or never take a shower again?* 
+And after growing with technological benefits like your phone or the internet, do you think you could live without them? I bet that if you ask some random person the question: **_Would you rather never be able to use your phone again for the rest of your life, or never take a shower again?_** 
 
 Most people will prefer to use their phones instead of taking a shower ever again in their lives. Of course, it’s a stupid question, but it just shows how our needs have a tendency to complexity. Because that is what we use tech for. We, humans, build better products with tech, and we sell them at scale. But in that process, our needs get more complex to produce.
 
@@ -35,4 +35,4 @@ So there is technology, increasing once more the entry barriers to the market, i
 
 I don’t know, I guess we will see how things go. But I’m sure that open-source models and ai systems availability will play a major role in this process. 
 
-The future is very interesting. Keep  repressing your inner nihilist <3
+The future is very interesting. Keep repressing your inner nihilist <3

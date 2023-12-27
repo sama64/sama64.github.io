@@ -42,6 +42,7 @@
       @media ($phone) {
         display: none;
       }
+
     }
 
     &--mobile {
@@ -89,7 +90,7 @@
       left: 0;
 
       &-trigger {
-        display: inline-flex;
+        display: none;
         align-items: center;
         user-select: none;
         cursor: pointer;

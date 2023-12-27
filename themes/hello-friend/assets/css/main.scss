@@ -60,8 +60,14 @@ p a {
   color: var(--color)
 }
 
-p em {
-  color: var(--color)
+// this changes bold text for highlight text
+p strong {
+  color: var(--color);
+  font-weight: 500;
+}
+
+li {
+  color: var(--color-text)
 }
 
 @media ($phone) {
