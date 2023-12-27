@@ -9,7 +9,7 @@ cover: "https://i.imgur.com/4CsJsOz.jpg"
 
 This section doesn't contain the books i read, but books and blogposts that i recommend reading and i consider to have value.
 
-Why would you even make a list everything you read anyway? It bothers me so much when people does that.\
+Why would you even make a list of everything you read anyway? It bothers me so much when people does that.\
 Also if you can't buy them: [*cough cough*](https://www.libgen.is/)
 
 ## Blogposts
