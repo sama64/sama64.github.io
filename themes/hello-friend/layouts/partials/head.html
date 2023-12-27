@@ -13,14 +13,13 @@
 
 <!-- head custom -->
 {{- partial "prepended_head.html" . }}
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 
 <!-- Theme CSS -->
 {{ $res := resources.Get "css/style.scss" }}
 {{ $style := $res | resources.ToCSS }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+<link rel="stylesheet" href="{{ $style.RelPermalink }}?v=1.2.3" />
 <!-- Custom CSS to override theme properties (/static/style.css) -->
-<link rel="stylesheet" href="{{ "style.css" | absURL }}" />
+<link rel="stylesheet" href="{{ "style.css" | absURL }}?v=1.2.4" />
 
 <!-- Icons -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "img/apple-touch-icon-144-precomposed.png" | absURL }}" />
