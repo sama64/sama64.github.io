@@ -12,7 +12,7 @@ tags:
 
 *I’m not an expert in anything of what I’m about to talk about now, this is just what I think*
 
-So as human history progressed, technology has given us great products at scale that not only cover our basic biological needs but that make our lives better. One really basic example that I appreciate very much is plumbing, and of course hot water. 
+As human history progressed, technology has given us great products at scale that not only cover our basic biological needs but that make our lives better. One really basic example that I appreciate very much is plumbing, and of course hot water. 
 
 But also there are more complex ones, like digital entertainment. It’s more complex in the sense that, think for a minute how much technology it’s needed for you to be able to laugh your ass off over a video of Biden, Trump, and Obama playing minecraft on a social platform. 
 
