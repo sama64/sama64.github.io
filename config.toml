@@ -29,6 +29,10 @@ paginate = 5
 
   # favicon
   favicon = "/img/favicon.png"
+  
+[services]
+  [services.googleAnalytics]
+    ID = "G-CM1KJ0M4TG"
 
 [languages]
   [languages.en]
