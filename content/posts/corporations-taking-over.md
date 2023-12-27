@@ -5,6 +5,7 @@ description: "The idea of corporations taking over society is old, but AI at sca
 draft: false
 toc: false
 images:
+  - post-cover.png
 tags:
   - Opinion
   - Ai

@@ -3,6 +3,8 @@ title: "About me!! :)"
 date: 2023-04-20T21:03:12-03:00
 draft: false
 cover: "posts/images/about.jpg"
+images:
+  - post-cover.png
 ---
 So, I'm a person with a lot of curiosity, and I like to learn things for fun :D
 
