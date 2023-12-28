@@ -49,7 +49,7 @@ If you struggle with the feeling that you’re not enough, or simply that you wi
 
 I know that for some people this sounds impossible. In the past, many close people told me to stop being so demanding with myself, but in my mind, I saw that the same way as giving up. So I thought I would be a failure if I had to lower my standards.
 
-Listen, you are not a failure for giving yourself a break. Anything you get or achieve won’t have any meaning if you do it just to prove something, and or if you don’t enjoy the process. If anything, being in peace with yourself as you are will give more meaning to anything you want to do, because the motivation won’t be trying to grow your ego, or trying to feel the void.
+Listen, you are not a failure for giving yourself a break. Anything you get or achieve won’t have any meaning if you do it just to prove something, and or if you don’t enjoy the process. If anything, being in peace with yourself as you are will give more meaning to anything you want to do, because the motivation won’t be trying to grow your ego, or trying to fill the void.
 
 **_You don’t need to wait for it to become painful to get off the treadmill. Stop making excuses for why you’re not at peace with yourself today_**
 
