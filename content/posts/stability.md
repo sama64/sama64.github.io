@@ -13,7 +13,7 @@ stability is the enemy of getting things done
 
 you might have goals, things you want to achieve in life, things you want to be good at
 
-but when you're comfortable in a routine, and you feel safe and validated by your bubble, you don't tend to work towards your goals
+but when you're too comfortable in a routine, and you feel safe and validated by your bubble, you don't tend to work towards your goals
 
 stability leads to inaction
 
