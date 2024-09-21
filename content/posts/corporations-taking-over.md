@@ -7,8 +7,6 @@ toc: false
 images:
   - post-cover.png
 tags:
-  - Opinion
-  - Ai
 ---
 
 **_I’m not an expert in anything of what I’m about to talk about now, this is just what I think_**

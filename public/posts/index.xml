@@ -5,21 +5,21 @@
     
     
     
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Samsyntaxerror blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 23 Apr 2023 00:18:36 -0300</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Sep 2024 15:16:44 -0300</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The future may be of the corporations</title>
-      <link>/posts/corporations-taking-over/</link>
-      <pubDate>Sun, 23 Apr 2023 00:18:36 -0300</pubDate>
+      <title>Stability will kill you</title>
+      <link>//localhost:1313/posts/stability/</link>
+      <pubDate>Sat, 21 Sep 2024 15:16:44 -0300</pubDate>
       
-      <guid>/posts/corporations-taking-over/</guid>
+      <guid>//localhost:1313/posts/stability/</guid>
       <description>
         
           
@@ -28,7 +28,47 @@
         
         
         
-          The idea of corporations taking over society is old, but AI just might be the final step toward it
+          random strings of thoughts
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Get off the hedonic treadmill</title>
+      <link>//localhost:1313/posts/hedonic-treadmill/</link>
+      <pubDate>Wed, 27 Dec 2023 03:04:56 -0300</pubDate>
+      
+      <guid>//localhost:1313/posts/hedonic-treadmill/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Do you ever feel like it doesn’t matter what you do, it’s never enough? Me too
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>The future might belong to the corporations</title>
+      <link>//localhost:1313/posts/corporations-taking-over/</link>
+      <pubDate>Sun, 23 Apr 2023 00:18:36 -0300</pubDate>
+      
+      <guid>//localhost:1313/posts/corporations-taking-over/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          The idea of corporations taking over society is old, but AI at scale might be the final step toward it
           
         
         </description>
@@ -36,10 +76,10 @@
     
     <item>
       <title>First post!! 🌱</title>
-      <link>/posts/first-post/</link>
+      <link>//localhost:1313/posts/first-post/</link>
       <pubDate>Thu, 20 Apr 2023 21:03:12 -0300</pubDate>
       
-      <guid>/posts/first-post/</guid>
+      <guid>//localhost:1313/posts/first-post/</guid>
       <description>
         
           
@@ -48,7 +88,7 @@
         
         
         
-          Why did i made this blog? TLDR: I have no friends :DD
+          Why did i made this blog? TLDR: I suck at writing :DD
           
         
         </description>
