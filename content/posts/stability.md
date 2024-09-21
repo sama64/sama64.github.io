@@ -30,7 +30,7 @@ we don't want to have agency
 
 agency is a rare quality
 
-hoomans normally don't think what their objectives are\
+hoomans don't normally think what their objectives are\
 and neither do they plan how to get them\
 even less do they act towards them
 
