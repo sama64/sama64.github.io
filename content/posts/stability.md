@@ -30,9 +30,9 @@ we don't want to have agency
 
 agency is a rare quality
 
-humans normally don't think what their objectives are\
-and neither do they plan to get them\
-even less they act towards them
+hoomans normally don't think what their objectives are\
+and neither do they plan how to get them\
+even less do they act towards them
 
 so it's just normal that when a hooman feels comfortable enough he just stops thinking
 
