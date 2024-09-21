@@ -14,7 +14,7 @@ tags:
 Do you ever feel like it doesn’t matter what you do, it’s never enough? That was my life for a long time.\
 Most of my life my actions have been motivated by two things: Recognition and comparing myself to others
 
-Sounds awful, I know, but that’s my truth. Every time I felt recognized, or I felt I was good at something compared to others, I wanted more.
+Every time I felt recognized, or I felt I was good at something compared to others, I wanted more.
 There were brief moments of satisfaction, but they never lasted very much. I have been suffering from anxiety my whole life because of this.
 
 I thought that the anxiety and the feelings of dread I felt were because I wasn’t enough, but they would all fade away if I had x, y or z. It didn’t matter how much people appreciated me, or how good I performed in school.
