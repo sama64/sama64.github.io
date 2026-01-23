@@ -46,3 +46,4 @@ Also if you can't buy them: [*cough cough*](https://www.libgen.is/)
 ## Fiction Books
 - The Last Question - *Isaac Asimov*
 - To Build A Fire - *Jack London*
+- Project Hail Mary - *Andy Weir*
