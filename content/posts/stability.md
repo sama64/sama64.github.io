@@ -13,12 +13,12 @@ stability is the enemy of getting things done
 
 you might have goals, things you want to achieve in life, things you want to be good at
 
-but when you're too comfortable in a routine, and you feel safe and validated by your bubble, you don't tend to work towards your goals
+but when you're too comfortable in a routine, and you feel safe and validated in your bubble, you tend to not work towards your goals
 
 stability leads to inaction
 
 instability leads to action bc uncertainty makes you feel stressed and nervous.\
-uncertainty makes you think, and makes you act
+uncertainty makes you think, it makes you act
 
 too much stability can make you fall asleep
 
@@ -31,13 +31,13 @@ we don't want to have agency
 agency is a rare quality
 
 hoomans don't normally think what their objectives are\
-and neither do they plan how to get them\
-even less do they act towards them
+and neither do they plan on how to get them\
+it's even less common to act towards them
 
-so it's just normal that when a hooman feels comfortable enough he just stops thinking
+so it's just normal that when a human feels comfortable enough they just stop thinking
 
 and you fall in the routine trance\
-and you forget your objectives\
+and you forget about your objectives\
 and you sleep on your plans
 
 and you don't act\
@@ -47,25 +47,27 @@ in your routine of inaction towards what you really want\
 because you're comfortable\
 because you don't want to think hard
 
-that's why most people are stuck in a routine they're not happy on it\
-they're just comfortable, they sit on that feeling for years
+that's why most people are stuck in a routine they're not happy with\
+they're just barely comfortable, they sit on the feelings of insatisfaction for years
 
-they learn that 'nothing ever happens' in their lives\
-and they see people that does what they once dreamed of as a different species
+they learn that 'nothing happens' in their lives\
+and they see people that do what they once dreamed of as a different species
 
-_"i could never do something like that, I'm too dumb"_
+_"i could never do something like that, I'm too dumb, I'm too shy, I'm not brave enough"_
 
-you're not dumb\
-you just don't want to think\
-bc you mistakenly learned that you don't have control over your life
+you're not dumb, you can be brave\
+you just don't want to think, you don't want to be uncomfortable\
+
+and it could be that you mistakenly learned that you don't have control over your life
 
 resisting failure, trying again, failing again, and trying again is a skill\
 is a muscle you need to train
 
 you don't allow yourself to suck because you're too scared of failure
 
-most of the people that built the modern world are not geniuses\
-they just learned how to resist failure and iterate\
+the people that built the modern world are not geniuses\
+_at least most of them_\
+they just learned how to go through the failure phases and iterate\
 to keep trying, failing most of the time, and having little successes consistently
 
 the longer you keep avoiding failure and not allowing yourself to suck\
