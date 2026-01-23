@@ -1,6 +1,6 @@
 ---
 title: "About me!! :)"
-date: 2023-04-20T21:03:12-03:00
+date: 2026-01-23T18:27:22-03:00
 draft: false
 cover: "posts/images/about.jpg"
 images:
