@@ -2,11 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/posts/personal-assistants/</loc>
+    <lastmod>2026-01-26T02:41:23-03:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-09-21T15:16:44-03:00</lastmod>
+    <lastmod>2026-01-26T02:41:23-03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-09-21T15:16:44-03:00</lastmod>
+    <lastmod>2026-01-26T02:41:23-03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+    <lastmod>2026-01-23T18:27:22-03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/thoughts-on-automation/</loc>
+    <lastmod>2024-09-28T01:02:47-03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/stability/</loc>
     <lastmod>2024-09-21T15:16:44-03:00</lastmod>
@@ -22,9 +31,6 @@
   </url><url>
     <loc>//localhost:1313/posts/corporations-taking-over/</loc>
     <lastmod>2023-04-23T00:18:36-03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/about/</loc>
-    <lastmod>2023-04-20T21:03:12-03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/first-post/</loc>
     <lastmod>2023-04-20T21:03:12-03:00</lastmod>
