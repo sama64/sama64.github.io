@@ -3,7 +3,7 @@ title: "How Clawd Found Me A Girlfriend"
 date: 2026-01-26T02:41:23-03:00
 description: "why is the shiny new thing kind of a big deal"
 draft: false
-cover: "posts/images/clawd.jpeg"
+cover: "posts/images/clawd.jpg"
 toc: false
 images:
   - post-cover.png
@@ -69,9 +69,9 @@ TLDR:
  all of that cash they're burning?
  all of that is so you use their harness, buy into their ecosystem and they collect data about how you use it for fine-tuning and improving their models. that’s their moat. 
 
- *_or at least that must be what they must tell to their investors_*
+ **_or at least that must be what they must tell to their investors_**
 
- how do you think they're gonna justify to their investors subsidizing *_you_* if they don't own the harness you use and you give them scattered usage data?
+ how do you think they're gonna justify to their investors subsidizing **_you_** if they don't own the harness you use and you give them scattered usage data?
 
  I mean, you use their platform so they _do_ have your data when you generate tokens, but you can just switch up to another provider to another SOTA model without a massive impact in your day to day use.
 
@@ -105,7 +105,7 @@ TLDR:
 
  never took it to a place where it was a real project or product at all.
 
- but the idea was, eventually I want to be having a personal coach with a personality sitting in my home. not in some data center where all my personal data is exposed and can be taken away. *_i want it to be mine_*
+ but the idea was, eventually I want to be having a personal coach with a personality sitting in my home. not in some data center where all my personal data is exposed and can be taken away. I want it to be _mine._
 
  but then, reality check: any open-source SOTA model needs a big GPU, and that means to invest a lot upfront, for a model that might be mediocre, and may be unusable (at that time llama 3 or equivalents were the only options).
 
@@ -119,7 +119,7 @@ TLDR:
 
  so really clawd is what I've been looking for some time made real in this specific point in time.
 
- and guess what, when hardware gains reach to a level of having a Claude opus 4.5 in your home for the price of a gaming desktop you will just be able to switch providers to localhost and be done borrowing the motor of your car and sending your data to multiple billion dollar companies *_yay ^ ^_*
+ and guess what, when hardware gains reach to a level of having a Claude opus 4.5 in your home for the price of a gaming desktop you will just be able to switch providers to localhost and be done borrowing the motor of your car and sending your data to multiple billion dollar companies **_yay ^ ^_**
 
  so even though _it is_ the flashy new thing, it's a good thing!
 
