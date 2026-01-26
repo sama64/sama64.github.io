@@ -10,11 +10,11 @@ images:
 tags:
 ---
 
- okay I’ll admit that was clickbait. an LLM did not find me a gf or bf at all.
+ okay I’ll admit it: clickbait. no LLM found me gf or bf _(yet)_
 
- so clawd is the shiny new thing this week on twitter. so what? why is that interesting?
+ so clawd is the shiny new thing on X this week. so what? why is that interesting?
 
- I think this new wave of adoption of agents will drive some very interesting changes in the AI bubble. 
+ I think this new wave of adoption is going to warp pricing + reliability in ways people aren't pricing in yet. 
  
  so let’s discuss that instead of why I don’t have a partner ◝(ᵔᗜᵔ)◜
  
@@ -30,7 +30,7 @@ tags:
 
  the thing with clawd is that you _can_ own your data, even if you don't right now. or at least you have the possibility.
 
- why do i say this? clawd let's you use any LLM provider, and holds your data in whatever device you're running it on. it also holds the credentials to all the services you connect it to.
+ why do i say this? clawd lets you use any LLM provider, and holds your data in whatever device you're running it on. it also holds the credentials to all the services you connect it to. _(yes, scary)_
 
  so even if openai, anthropic or whoever has the hottest SOTA this week goes down, you can just swap to another model. so if you’re filthy rich you could just host some open-source SOTA yourself and keep it running even if we nuke each other out for some time.
 
@@ -42,29 +42,27 @@ TLDR:
     
  # providers will price this in
  
- if you didn't know it already let me break you the news. the AI industry is heavily subsidized by almost anyone they can borrow money from by selling them the promise of a path to profitability in the future.
+ if you didn't know it already let me break the news to you. the AI industry is heavily subsidized by almost anyone who'll lend them money by selling them the promise of a path to profitability in the future.
 
  that's why Microsoft burns cash like you could just print money.. oh wait. sorry, I meant that they burn money like Microsoft _owned_ the federal reserve.
 
- it's a long-term bet. it's an arms-race that requires patience and a huge pile of cash, or rather a pile of heads willing to borrow you that cash.
+ it's a long-term bet. it's an arms-race that requires patience and a huge pile of cash, or rather a pile of heads willing to lend you that cash.
 
- so how do they even convince those heads to borrow money from them for a completely uncertain endeavor?
+ so how do they even convince those heads to lend them money for a completely uncertain endeavor?
 
- they promise green pastures far far away...
+ the pitch is basically: _"subsidize usage now, capture the workflow, monetize later."_
 
- and what lies in these promised lands?
-
- hoards of users that use the harness you tailor made for your model. locked into your ecosystem.
+ if you don't own the harness, you don't own the user. and if you don't own the user, those subsidies look less like strategy and more like lighting money on fire.
  
- oh right, your model, that massive pile of floats (weights) that can be hold on an SD card and costs dozens of billions, or even hundreds of billions to train.
+ and the 'asset' they're trying to amortize is your model: you know, that massive pile of floats (weights) that can be held on an SD card and costs dozens of billions, or even hundreds of billions to train. and can be just copied infinitely.
 
  so we don't really know how much cash they're burning vs revenue.
 
- but using an h100 for a whole day for $200 a month? that's a steal right?
+ but using an h100 for a whole day for $200 a month? that's a steal, right?
 
  bc it kinda is, there's no way they're making money right now. everyone knows this.
 
- everyone on twitter and their mom are tweeting on how to use the Oauth credentials of low-price/high-quota plans to avoid paying hundreds or thousands in api credits.
+ everyone on X and their mom are posting on how to use the OAuth credentials of low-price/high-quota plans to avoid paying hundreds or thousands in api credits.
 
  all of that cash they're burning?
  all of that is so you use their harness, buy into their ecosystem and they collect data about how you use it for fine-tuning and improving their models. that’s their moat. 
@@ -73,9 +71,9 @@ TLDR:
 
  how do you think they're gonna justify to their investors subsidizing **_you_** if they don't own the harness you use and you give them scattered usage data?
 
- I mean, you use their platform so they _do_ have your data when you generate tokens, but you can just switch up to another provider to another SOTA model without a massive impact in your day to day use.
+ I mean, you use their platform so they _do_ have your data when you generate tokens, but you can just switch to another provider that has a SOTA model without a massive impact in your day to day use.
 
- this is somehting that has been said for a while, but now more than ever it's going to be felt in inference provider's pricing.
+ this is something that has been said for a while, but now more than ever it's going to be felt in inference providers' pricing.
 
  that $200 subscription for unlimited model use? who knows how long it's going to last.
 
@@ -85,11 +83,11 @@ TLDR:
 
  so we will probably see unlimited or high-usage flat tiers going up or disappearing, and API prices going up. my bet is before 2027.
 
- # all models will be more reliable in high-value tasks for real users
+ # all models will be more reliable and secure in high-value tasks for real users
  
  yes, we do have some standards at this point to establish how a model should talk to a tool, or API (ex: MCP, openai standard), but the agentic flow and the way they perform tasks are not the same along most providers. and the range of tasks each model can do differs.
 
- some models perform agentic tasks better than others based solely on the harness. for example codex performs way better on the codex-cli harness than on say claude-code or open code.
+ some models perform agentic tasks better than others based solely on the harness. for example codex performs way better on the codex-cli harness than on say claude-code or opencode.
 
  the cool thing with apps like clawd is that it will generate new benchmarks of real high-value tasks for the end users that all providers will try to optimize for.
 
@@ -97,9 +95,19 @@ TLDR:
 
  so we will end up with a very robust ecosystem where agents can reliably perform a lot of tasks users really want done by their agents daily.
 
- it will enforce a soft-default standard on how agents should act, and what minimum range of tasks a model should be able to bring to the table to even be considered to be SOTA-ish.
+ it will enforce a soft-default standard on how agents should act, and what minimum range of tasks a model should be able to bring to the table to even be considered SOTA-ish.
 
-  # the best thing about owning the shoggoth harness :D
+ # the security tradeoffs won't turn off mainstream adoption
+
+ since clawd got so popular a lot of inexperienced or non-technical users tried it. a lot of vulnerabilities were discovered and a lot of people got hacked.
+
+ lots of people are getting hacked, and that _will_ keep happening. but i don't think this will be a turnoff for adoption. there's so much to gain that people won't care the tradeoff.
+ 
+ ofc this also means that there are going to be a lot more guardrails to approximate 'foolproof' usage of these tools. and eventually security oriented clawdbot copies will be made into products for non-technical people.
+
+ guardrails will be tested in the real world and will get more and more robust.
+
+ # the best thing about owning the shoggoth harness :D
 
  so I wanted to have a personal assistant for gamification of goals for some time.
 
@@ -123,4 +131,4 @@ TLDR:
 
  so even though _it is_ the flashy new thing, it's a good thing!
 
- and this new massive wave of adoption it's a really good first step on real world agent-reliability and data ownership.
+ and this new massive wave of adoption is a really good first step on real world agent-reliability and data ownership.
