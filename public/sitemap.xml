@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/personal-assistants/</loc>
+    <loc>https://sama64.github.io/posts/personal-assistants/</loc>
     <lastmod>2026-01-26T02:41:23-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>https://sama64.github.io/posts/</loc>
     <lastmod>2026-01-26T02:41:23-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://sama64.github.io/</loc>
     <lastmod>2026-01-26T02:41:23-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>https://sama64.github.io/about/</loc>
     <lastmod>2026-01-23T18:27:22-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/thoughts-on-automation/</loc>
+    <loc>https://sama64.github.io/posts/thoughts-on-automation/</loc>
     <lastmod>2024-09-28T01:02:47-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/stability/</loc>
+    <loc>https://sama64.github.io/posts/stability/</loc>
     <lastmod>2024-09-21T15:16:44-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/anime-manga-list/</loc>
+    <loc>https://sama64.github.io/anime-manga-list/</loc>
     <lastmod>2023-12-27T05:07:34-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/reading-list/</loc>
+    <loc>https://sama64.github.io/reading-list/</loc>
     <lastmod>2023-12-27T04:15:27-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/hedonic-treadmill/</loc>
+    <loc>https://sama64.github.io/posts/hedonic-treadmill/</loc>
     <lastmod>2023-12-27T03:04:56-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/corporations-taking-over/</loc>
+    <loc>https://sama64.github.io/posts/corporations-taking-over/</loc>
     <lastmod>2023-04-23T00:18:36-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/first-post/</loc>
+    <loc>https://sama64.github.io/posts/first-post/</loc>
     <lastmod>2023-04-20T21:03:12-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/updates/</loc>
+    <loc>https://sama64.github.io/updates/</loc>
     <lastmod>2023-04-20T21:03:12-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://sama64.github.io/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://sama64.github.io/tags/</loc>
   </url>
 </urlset>
