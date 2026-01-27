@@ -5,7 +5,7 @@ description: "Do you ever feel like it doesn’t matter what you do, it’s neve
 draft: false
 toc: false
 images:
-  - post-cover.png
+  - /posts/images/post-cover.png
 tags:
 ---
 

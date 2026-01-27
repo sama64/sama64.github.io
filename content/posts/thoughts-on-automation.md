@@ -5,7 +5,7 @@ description: "the industrial society and its consequences blah blah"
 draft: false
 toc: false
 images:
-  - post-cover.png
+  - /posts/images/post-cover.png
 tags:
 ---
 

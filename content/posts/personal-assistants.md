@@ -6,7 +6,7 @@ draft: false
 cover: "posts/images/clawd.jpg"
 toc: false
 images:
-  - clawd.jpg
+  - /posts/images/clawd.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ date: 2023-04-20T21:03:12-03:00
 description: "Why did i made this blog? TLDR: I suck at writing :DD"
 draft: false
 images:
-  - post-cover.png
+  - /posts/images/post-cover.png
 ---
 
 ## Why did i make this blog?? ##
